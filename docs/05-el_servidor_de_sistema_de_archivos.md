@@ -14,3 +14,5 @@
 - Mover un archivo: Cambia un archivo o carpeta de ubicación.
 - Buscar archivos: Busca archivos o carpetas que coincidan con determinados criterios.
 - **Delimitación de alcance:** Se restringe estrictamente a un directorio de trabajo específico configurado previamente. Sin este límite, el LLM (y cualquier instrucción maliciosa inyectada) podría comprometer todo el sistema de archivos del usuario.
+- **Idea clave: **
+MCP define la comunicación; FS proporciona las herramientas de archivos; los directorios permitidos delimitan hasta dónde pueden actuar esas herramientas.
