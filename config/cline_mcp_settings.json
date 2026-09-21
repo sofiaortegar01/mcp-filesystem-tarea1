@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:/Users/sofia_Ortega/Documents/Aplicaciones moviles nativas/mcp-filesystem-tarea1/mcp-workspace"
+      ]
+    }
+  }
+}
