@@ -1,0 +1,3 @@
+HOLA
+Esta es una prueba inicial para el servidor MCP
+Línea adicional de prueba
