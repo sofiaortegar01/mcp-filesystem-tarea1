@@ -24,6 +24,7 @@ La investigación detallada de la tarea se encuentra organizada en la carpeta `d
 5. **[El Servidor de Sistema de Archivos](docs/05-el_servidor_de_sistema_de_archivos.md)** — Explicación del servidor de referencia FS, sus herramientas expuestas y la delimitación mediante directorios permitidos.
 6. **[Seguridad](docs/006-seguridad.md)** — Análisis de riesgos (inyección de instrucciones, fugas de rutas) y mitigaciones implementadas.
 7. **[Casos de Uso](docs/07-casos_de_uso.md)** — Herramientas actuales que implementan MCP para la edición autónoma de repositorios de código.
+8. **[Presentación MCP vs API](MCP vs. APIs_ presentacion.pdf)
 
 ---
 ## Tabla Comparativa
